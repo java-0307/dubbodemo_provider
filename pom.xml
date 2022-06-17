@@ -94,7 +94,7 @@
     <dependency>
       <groupId>com.alibaba</groupId>
       <artifactId>fastjson</artifactId>
-      <version>1.2.47</version>
+      <version>1.2.83</version>
     </dependency>
     <!--涉及到事务代理对象导致发布不成功，添加的依赖-->
     <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
